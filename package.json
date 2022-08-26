@@ -5,9 +5,6 @@
   "description": "FilNameSyntaxApplicator - Choose a syntax for your filenames and apply it.",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "atom-fnsa:toggle"
-  },
   "repository": "https://github.com/atom/atom-fnsa",
   "license": "MIT",
   "engines": {
